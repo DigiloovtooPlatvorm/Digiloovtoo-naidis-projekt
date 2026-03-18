@@ -1,38 +1,30 @@
 # Projekti kirjeldus
 
-Selles failis kirjeldatakse digiloovtöö põhiandmeid. Täida väljad võimalikult selgelt ja lühidalt, et töö eesmärk, sisu ja oodatav tulemus oleksid arusaadavad nii autorile, juhendajale kui ka teistele lugejatele.
-
 ## Töö pealkiri
-ajutine tekst
+Kübertark – veebileht 8. klassi õpilastele küberturvalisuse põhitõdede õppimiseks
 
 ## Autor(id)
-ajutine tekst
+Mari Tamm
+
 ## Juhendaja
-ajutine tekst
+Õpetaja Kairi Kask
 
 ## Eesmärk
-Kirjelda lühidalt, mida soovid selle tööga saavutada.
-
-ajutine tekst
+Luua lihtne ja arusaadav veebileht, mis aitab 8. klassi õpilastel õppida küberturvalisuse põhitõdesid iseseisvalt ja huvitaval viisil.
 
 ## Lühikirjeldus
-Kirjelda paari lausega, mis töö see on ja mida selle käigus tehakse.
-
-ajutine tekst
+Töö käigus valmib õppematerjali tüüpi veebileht, kus käsitletakse turvalisi paroole, õngitsuskirju, privaatsust ja turvalist internetikäitumist. 
+Lisaks teoreetilistele selgitustele sisaldab veebileht näiteid, kontrollküsimusi ja lühikesi praktilisi ülesandeid.
 
 ## Kellele töö on suunatud
-Kirjelda sihtrühma, kellele lahendus, materjal või projekt on mõeldud.
-
-ajutine tekst
+Töö on suunatud põhikooli 8. klassi õpilastele, kes vajavad lihtsas keeles ja näidete abil esitatud õppematerjali küberturvalisuse teemal.
 
 ## Oodatav tulemus
-Kirjelda, milline peaks töö lõpptulemus olema.
-
-ajutine tekst
+Valmis veebileht, mis sisaldab vähemalt nelja teemaplokki, arusaadavat kujundust, näiteid päriselulistest olukordadest ja vähemalt ühte enesekontrolli võimalust.
 
 ## Tähtsamad tegevused või tööetapid
-Too välja peamised sammud või etapid, mille kaudu töö valmib.
-
-- ajutine tekst
-- ajutine tekst
-- ajutine tekst
+- teema täpsustamine ja sihtrühma analüüs
+- veebilehe sisu kavandamine ja materjalide koostamine
+- veebilehe kujundamine ja arendamine
+- testimine kasutajatega ning paranduste tegemine
+- töö dokumenteerimine ja lõppversiooni vormistamine
