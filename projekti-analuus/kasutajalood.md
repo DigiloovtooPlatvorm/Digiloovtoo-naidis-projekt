@@ -1,83 +1,62 @@
 # Kasutajalood
 
-Selles failis kirjeldatakse kasutajalugusid, mis aitavad sõnastada, mida kasutaja loodavalt lahenduselt ootab.
-
-Kasutajalugu aitab paremini mõista:
-- kes on kasutaja
-- mida ta soovib teha
-- miks see on talle oluline
-
-Kasutajalood aitavad siduda kasutaja vajadused konkreetsete ülesannete ja lahendustega.
-
-Hea kasutajalugu on lühike, selge ja seotud päris kasutaja vajadusega.
-
 ## Kasutajalugu 1
 
 ### Kasutaja
-Kirjuta siia, kes seda vajadust omab.
-
-ajutine tekst
+8. klassi õpilane
 
 ### Kasutajalugu
-Kasutajana soovin ma "ajutine tekst", et "ajutine tekst".
+Kasutajana soovin ma lugeda küberturvalisuse teemadel lihtsaid ja lühikesi selgitusi, et ma saaksin iseseisvalt teemast aru.
 
 ### Selgitus
-Kirjelda lühidalt, miks see vajadus on oluline ja mida see kasutaja jaoks tähendab.
-
-ajutine tekst
+Õpilane vajab õppematerjali, mis ei oleks liiga tehniline ega keeruline. Lihtne sõnastus aitab tal kiiremini alustada ja paremini mõista.
 
 ### Võimalikud alamülesanded
-Kirjuta siia väiksemad tegevused, mis aitavad selle kasutajaloo ellu viia.
-
-- [ ] ajutine tekst
-- [ ] ajutine tekst
-- [ ] ajutine tekst
+- [ ] Koosta lühikesed teemaplokkide tekstid
+- [ ] Väldi keerulisi tehnilisi termineid või seleta need lahti
+- [ ] Lisa iga teema juurde vähemalt üks näide
 
 ### Märkused
-Lisa vajadusel muu oluline info.
-
-ajutine tekst
+Tekst peaks sobima põhikooli vanuseastmele.
 
 ---
 
 ## Kasutajalugu 2
 
 ### Kasutaja
-Kirjuta siia, kes seda vajadust omab.
-
-ajutine tekst
+8. klassi õpilane
 
 ### Kasutajalugu
-Kasutajana soovin ma "ajutine tekst", et "ajutine tekst".
+Kasutajana soovin ma näha päriselulisi näiteid internetiohtudest, et ma oskaksin neid päriselus paremini ära tunda.
 
 ### Selgitus
-Kirjelda lühidalt, miks see vajadus on oluline ja mida see kasutaja jaoks tähendab.
-
-ajutine tekst
+Pelgalt teooriast ei piisa. Näited aitavad kasutajal teemat seostada oma igapäevase internetikasutusega.
 
 ### Võimalikud alamülesanded
-Kirjuta siia väiksemad tegevused, mis aitavad selle kasutajaloo ellu viia.
-
-- [ ] ajutine tekst
-- [ ] ajutine tekst
-- [ ] ajutine tekst
+- [ ] Lisa näide õngitsuskirjast
+- [ ] Lisa näide nõrga ja tugeva parooli võrdlusest
+- [ ] Lisa näide ohtlikust lingist või veebilehest
 
 ### Märkused
-Lisa vajadusel muu oluline info.
+Näited peaksid olema realistlikud, kuid lihtsad.
 
-ajutine tekst
+---
 
-## Näide
+## Kasutajalugu 3
 
-**Kasutaja:** põhikooli õpilane
+### Kasutaja
+õpetaja
 
-**Kasutajalugu:**  
-Kasutajana soovin ma leida kiiresti digiloovtöö juhendi, et saaksin iseseisvalt tööga alustada.
+### Kasutajalugu
+Kasutajana soovin ma kasutada veebilehte tunnis õppematerjalina, et õpilastel oleks üks selge koht, kust vajalik info leida.
 
-**Selgitus:**  
-Kasutajal on vaja näha kõige olulisemat infot selgelt ja ühes kohas, ilma et ta peaks seda mitmest erinevast kohast otsima.
+### Selgitus
+Õpetaja vajab materjali, mida saab kasutada nii klassis koos vaadates kui ka iseseisvaks tööks.
 
-**Võimalikud alamülesanded:**
-- [ ] Koonda juhendmaterjalid ühte kohta
-- [ ] Lisa selge pealkiri ja lühikirjeldus
-- [ ] Tee juhendi struktuur lihtsalt loetavaks
+### Võimalikud alamülesanded
+- [ ] Tee menüü lihtsaks ja loogiliseks
+- [ ] Jaga sisu selgeteks teemablokkideks
+- [ ] Kontrolli, et veebileht töötaks erinevates seadmetes
+
+### Märkused
+Õpetaja jaoks on oluline kiire leitavus ja lihtne kasutus.
