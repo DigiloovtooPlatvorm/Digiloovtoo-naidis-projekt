@@ -1,113 +1,61 @@
 # Stsenaariumid
 
-Selles failis kirjeldatakse olukordi, kus kasutaja kasutab loodavat lahendust.
-
-Stsenaarium aitab paremini mõista:
-- kes kasutab lahendust
-- mida ta teha soovib
-- miks see on talle oluline
-- milline tulemus peaks tekkima
-
-Stsenaarium kirjeldab kasutusolukorda samm-sammult ja aitab siduda kasutaja vajadused loodava lahendusega.
-
 ## Stsenaarium 1
 
 ### Pealkiri
-ajutine tekst
+Õpilane õpib, kuidas ära tunda õngitsuskirja
 
 ### Seotud persoona
-Kirjuta siia selle persoona nimi, kelle vaatenurgast olukorda kirjeldad.
-
-ajutine tekst
+Karl
 
 ### Olukorra kirjeldus
-Kirjelda lühidalt, mis olukorras kasutaja on.
-
-ajutine tekst
+Karl valmistub informaatikatunni tööks ja soovib aru saada, kuidas internetipettusi ära tunda.
 
 ### Kasutaja eesmärk
-Kirjelda, mida kasutaja tahab saavutada.
-
-ajutine tekst
+Leida kiiresti arusaadav selgitus ja näide, mille põhjal oskab ta edaspidi kahtlast kirja ära tunda.
 
 ### Tegevuse käik
-Kirjelda lühidalt, milliseid samme kasutaja teeb.
-
-ajutine tekst
+Karl avab veebilehe.
+Ta valib menüüst teema „Õngitsuskirjad”.
+Ta loeb lühikest selgitust ja vaatab näidet kahtlasest kirjast.
+Ta vastab kontrollküsimusele.
 
 ### Oodatav tulemus
-Kirjelda, milline tulemus peaks selle tegevuse järel tekkima.
-
-ajutine tekst
+Karl saab aru, millised tunnused viitavad õngitsuskatsele, ja oskab edaspidi olla tähelepanelikum.
 
 ### Võimalikud probleemid
-Kirjelda, mis võib kasutaja jaoks olla keeruline või takistav.
+Kui tekst on liiga pikk või näide liiga keeruline, võib ta kaotada huvi.
 
-ajutine tekst
 ### Märkused
-Lisa vajadusel muu oluline info.
-
-ajutine tekst
+Selles teemaplokis peaks olema vähemalt üks lihtne päriseluline näide.
 
 ---
 
 ## Stsenaarium 2
 
 ### Pealkiri
-ajutine tekst
+Õpetaja kasutab veebilehte tunni toetamiseks
 
 ### Seotud persoona
-Kirjuta siia selle persoona nimi, kelle vaatenurgast olukorda kirjeldad.
-
-ajutine tekst
+Õpetaja Liis
 
 ### Olukorra kirjeldus
-Kirjelda lühidalt, mis olukorras kasutaja on.
-
-ajutine tekst
+Õpetaja otsib järgmise tunni jaoks materjali, millega selgitada õpilastele turvaliste paroolide loomist.
 
 ### Kasutaja eesmärk
-Kirjelda, mida kasutaja tahab saavutada.
-
-ajutine tekst
+Leida kiiresti sobiv veebisisu, mida saab tunnis näidata ja mille järgi õpilased saavad hiljem iseseisvalt kordada.
 
 ### Tegevuse käik
-Kirjelda lühidalt, milliseid samme kasutaja teeb.
-
-ajutine tekst
+Õpetaja avab veebilehe.
+Ta liigub paroolide teemablokki.
+Ta näitab õpilastele näiteid tugevast ja nõrgast paroolist.
+Ta annab õpilastele lühikese iseseisva ülesande.
 
 ### Oodatav tulemus
-Kirjelda, milline tulemus peaks selle tegevuse järel tekkima.
-
-ajutine tekst
+Õpetaja saab kasutada veebilehte tunnis ning õpilased saavad teemast paremini aru.
 
 ### Võimalikud probleemid
-Kirjelda, mis võib kasutaja jaoks olla keeruline või takistav.
-
-ajutine tekst
+Kui lehe struktuur ei ole selge või näiteid on liiga vähe, ei ole materjal tunnis piisavalt kasulik.
 
 ### Märkused
-Lisa vajadusel muu oluline info.
-
-ajutine tekst
-
-## Näide
-
-**Pealkiri:** Õpilane otsib digiloovtöö juhendit
-
-**Seotud persoona:** Mari
-
-**Olukorra kirjeldus:**  
-Õpilane avab repositooriumi, et leida juhend, mille järgi oma tööd alustada.
-
-**Kasutaja eesmärk:**  
-Leida kiiresti vajalik juhend ja saada aru, mida tuleb esimesena teha.
-
-**Tegevuse käik:**  
-Õpilane avab repositooriumi avalehe, leiab sealt juhendi lingi, avab juhendi ning loeb läbi esimesed sammud.
-
-**Oodatav tulemus:**  
-Õpilane saab aru, kuidas tööga alustada, millised failid tuleb täita ja kust abi leida.
-
-**Võimalikud probleemid:**  
-Juhend ei ole hästi leitav või kasutatud mõisted on liiga keerulised.
+Õpetaja jaoks on oluline, et teema oleks kiiresti leitav ja visuaalselt hästi esitatud.
