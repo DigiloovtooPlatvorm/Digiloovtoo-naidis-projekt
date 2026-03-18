@@ -1,96 +1,55 @@
 # Personad
 
-Selles failis kirjeldatakse digiloovtöö sihtrühma esindavaid kasutajaid ehk personaid.
-
-Persoona aitab paremini mõista:
-- kes kasutaja on
-- millised on tema vajadused
-- milliseid raskusi ta võib kogeda
-- mida loodav lahendus peaks talle võimaldama
-
-Persona ei pea kirjeldama päris inimest, vaid usutavat ja tüüpilist kasutajat, kes esindab sinu sihtrühma.
-
 ## Persoona 1
 
 ### Nimi
-ajutine tekst
+Karl
 
 ### Vanus
-ajutine tekst
+14
 
 ### Roll või taust
-ajutine tekst
+8. klassi õpilane
 
 ### Eesmärgid
-Kirjelda, mida see kasutaja tahab saavutada.
-
-ajutine tekst
+Soovib saada kiiresti aru, kuidas internetis turvaliselt käituda ja kuidas vältida levinud ohte.
 
 ### Vajadused
-Kirjelda, mida kasutaja vajab, et oma eesmärki saavutada.
-
-ajutine tekst
+Vajab lihtsat, lühikest ja näideterohket õppematerjali, mida oleks kerge iseseisvalt kasutada.
 
 ### Probleemid või raskused
-Kirjelda, mis võib kasutaja jaoks olla keeruline või takistav.
-
-ajutine tekst
+Pikad ja keerulised tekstid väsitavad teda. Ta ei pruugi alati aru saada tehnilistest mõistetest.
 
 ### Harjumused
-Kirjelda, kuidas kasutaja tavaliselt tegutseb või milliseid vahendeid kasutab.
-
-ajutine tekst
+Kasutab iga päev telefoni, sotsiaalmeediat ja veebikeskkondi. Õppematerjali vaatab pigem lühikeste osade kaupa.
 
 ### Märkused
-Lisa vajadusel muu oluline info, mis aitab kasutajat paremini mõista.
-
-ajutine tekst
+Eelistab visuaalselt selget ülesehitust ja praktilisi näiteid.
 
 ---
 
 ## Persoona 2
 
 ### Nimi
-ajutine tekst
+Õpetaja Liis
 
 ### Vanus
-ajutine tekst
+36
 
 ### Roll või taust
-ajutine tekst
+Informaatikaõpetaja
 
 ### Eesmärgid
-Kirjelda, mida see kasutaja tahab saavutada.
-
-ajutine tekst
+Soovib kasutada tunnis materjali, mis aitaks õpilastele küberturvalisuse teemat lihtsalt selgitada.
 
 ### Vajadused
-Kirjelda, mida kasutaja vajab, et oma eesmärki saavutada.
-
-ajutine tekst
+Vajab usaldusväärset ja selget veebimaterjali, mida saab kasutada nii tunnis kui iseseisvaks õppimiseks.
 
 ### Probleemid või raskused
-Kirjelda, mis võib kasutaja jaoks olla keeruline või takistav.
-
-ajutine tekst
+Kõik internetist leitavad materjalid ei sobi vanuseastmele või on liiga keerulised.
 
 ### Harjumused
-Kirjelda, kuidas kasutaja tavaliselt tegutseb või milliseid vahendeid kasutab.
-
-ajutine tekst
+Kasutab digimaterjale tundides, jagab linke õpilastele ja otsib lühikesi praktilisi näiteid.
 
 ### Märkused
-Lisa vajadusel muu oluline info, mis aitab kasutajat paremini mõista.
-
-ajutine tekst
-
-## Näide
-
-**Nimi:** Mari  
-**Vanus:** 14  
-**Roll või taust:** põhikooli õpilane  
-**Eesmärgid:** leida kiiresti vajalik õppematerjal ja alustada tööga ilma lisaselgitusteta  
-**Vajadused:** lihtne ja arusaadav keskkond, kus vajalik info on kergesti leitav  
-**Probleemid või raskused:** kui info on hajutatud või juhised on liiga keerulised, on keeruline alustada  
-**Harjumused:** kasutab igapäevaselt telefoni ja arvutit õppimiseks  
-**Märkused:** eelistab lühikesi juhiseid ja selget ülesehitust
+Hindab materjali juures lihtsat keelt, loogilist jaotust ja õppijasõbralikkust.
